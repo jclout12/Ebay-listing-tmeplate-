@@ -237,19 +237,20 @@ may exhibit traits of "Good Condition".
 <img src="https://files.3dsellers.com/uploads/bXB6S0xDZGdid0N3SEkrODJRb3M5Zz09/1643305780-Excellent-min.jpg" width="80" height="80">
 <p class="condition-label">Excellent</p>
 </label>
-<div class="large"><img alt="large image" src="https://files.3dsellers.com/uploads/bXB6S0xDZGdid0N3SEkrODJRb3M5Zz09/1643305799-Good.jpg" width="" class="img-responsive"></div>
+<div class="large"><img alt="large image" src="https://files.3dsellers.com/uploads/bXB6S0xDZGdid0N3SEkrODJRb3M5Zz09/1643305780-Excellent-min.jpg" width="" class="img-responsive"></div>
 <input type="radio" name="slide_switch" id="id2">
 <label for="id2" class="thumbnail" width="450">
 <img src="https://files.3dsellers.com/uploads/bXB6S0xDZGdid0N3SEkrODJRb3M5Zz09/1643305799-Good.jpg" width="80" height="80">
 <p class="condition-label">Good</p>
 </label>
-<div class="large"><img alt="large image" src=https://files.3dsellers.com/uploads/bXB6S0xDZGdid0N3SEkrODJRb3M5Zz09/1643305786-LCDSL-min.jpg" width="450"></div>
-<input type="radio" name="slide_switch" id="id3">
+<div class="large"><img alt="large image" src= "https://files.3dsellers.com/uploads/bXB6S0xDZGdid0N3SEkrODJRb3M5Zz09/1643305799-Good.jpg" width="" class="img-responsive"></div>
+
+    <input type="radio" name="slide_switch" id="id3">
 <label for="id3" class="thumbnail" width="450">
 <img src="https://files.3dsellers.com/uploads/bXB6S0xDZGdid0N3SEkrODJRb3M5Zz09/1643305786-LCDSL-min.jpg" width="80" height="80">
 <p class="condition-label">Light LCD Shadow</p>
 </label>
-<div class="large"><img alt="large image" src="https://files.3dsellers.com/uploads/bXB6S0xDZGdid0N3SEkrODJRb3M5Zz09/1643305780-Excellent-min.jpg" width="450"></div>
+<div class="large"><img alt="large image" src="https://files.3dsellers.com/uploads/bXB6S0xDZGdid0N3SEkrODJRb3M5Zz09/1643305786-LCDSL-min.jpg" width="450"></div>
 <input type="radio" name="slide_switch" id="id4">
 <label for="id4" class="thumbnail" width="450">
 <img src="https://images.3dsellers.com/QlJYMEhwblN1c2JKc1BoU3VHVUo0dz09/listing_designer/reg shadow.jpg" width="80" height="80">
